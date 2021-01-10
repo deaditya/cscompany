@@ -9,8 +9,8 @@
 
 <channel>
 	<title>CS Company</title>
-	<atom:link href="/https://deaditya.github.io/cscompany/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://deaditya.github.io/cscompany</link>
+	<atom:link href="https://deaditya.github.io/cscompany/feed/" rel="self" type="application/rss+xml" />
+	<link>https://deaditya.github.io/cscompany</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 10 Jan 2021 13:26:01 +0000</lastBuildDate>
 	<language>en-US</language>
