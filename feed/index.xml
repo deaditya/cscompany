@@ -12,32 +12,12 @@
 	<atom:link href="/https://deaditya.github.io/cscompany/feed/" rel="self" type="application/rss+xml" />
 	<link>/https://deaditya.github.io/cscompany</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 08 Jan 2021 12:05:19 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Jan 2021 13:26:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>/https://deaditya.github.io/cscompany/hello-world/</link>
-					<comments>/https://deaditya.github.io/cscompany/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[dhea]]></dc:creator>
-		<pubDate>Fri, 08 Jan 2021 12:05:19 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://localhost/cscompany/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/https://deaditya.github.io/cscompany/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
